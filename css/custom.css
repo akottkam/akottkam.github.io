@@ -47,12 +47,15 @@ padding:2px;
   padding-bottom: 0px;
   margin-bottom:0;
   letter-spacing: -1px;
+  color: #fff;
+	
 }
 
 .jumbotron h2 {
   padding-left: 10px;	
   padding-top: -10;
   margin-top: 0;
+  color: #fff;
 }
 
 ul.buttons li {
