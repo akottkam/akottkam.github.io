@@ -1,4 +1,5 @@
 Based on https://github.com/cboettig/labnotebook
+We are rebuilding the Palmer Lab website as a Github Page using the website of the <a href="https://wurmlab.github.io">Wurm Lab at Queen Mary University London </a> as a template for code.
 
 ## Install
 Requires ruby 2.0
