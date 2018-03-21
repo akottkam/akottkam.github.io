@@ -1,51 +1,12 @@
 ---
 layout: page
-title: "PhD and Postdoc positions"
+title: "Join our lab"
 ---
 
-# Joining the lab
+# Join our lab!
 
-We are always eager for smart & motivated people to come and work with us. The [Organismal Biology department](http://www.sbcs.qmul.ac.uk) at QMUL includes many other behavioral and evolutionary genomics researchers; we share a cutting edge laboratory for genomics work and a powerful computing environment. [We are located](/map) in East London, with many of us living locally (Hackney, Bow) - a 15 minute walk to 20 minute bicycle ride from the office.
-
-If you're interested in joining us, please provide by email a CV, and a short proposal. Projects should address major evolutionary or ecologically relevant questions, and/or major challenges in bioinformatics/genomics. We are happy for projects to include population genomics, comparative analyses, bioinformatics, molecular biology, software development, hacking, field or behavioral work.
-
-## Postdocs
-
-We invite applications for Marie Sk&#322;odowska-Curie fellowships. The biggest effort is usually to come up with a good project. Once a proposal is written it is often worth applying to several funding sources.
-
-These can include:
- * many national sources of funding (e.g., [Swiss NSF](http://www.snf.ch/en/Pages/default.aspx), [Fondation Fyssen](http://www.fondationfyssen.fr/), [DAAD](https://www.daad.de/))
- * [EMBO](http://www.embo.org/funding-awards)
- * putting together a [BBSRC](http://www.bbsrc.ac.uk/funding/) or [NERC](http://www.nerc.ac.uk/funding/) grant with you as a named researcher co-investigator
- * [FEBS](http://www.febs.org/)
-
-## PhD positions
-
-PhD funding exists as part of multiple schemes. These include:
-
- * RCUK Doctoral training programmes - application deadlines in January. The two programmes are slightly different, in that NERC is typically more for ecology &amp; evolution type questions, while BBSRC has historically been more mechanistic. However, the boundary is very fuzzy - it can be relevant to apply to both. These programmes are accessible to UK residents and to EU citizens. 
-    * [London NERC Doctoral Training Programme](http://london-nerc-dtp.org)
-    * [BBSRC London Interdisciplinary Doctoral Programme](http://lido-dtp.ac.uk)
-
- * Many national schemes exist (e.g., from your country of origin). Some of these are listed [on QMUL's page](http://www.sbcs.qmul.ac.uk/postgraduate/research/index.html) including:
-    * CONACYT (Mexico)
-    * Commonwealth Scholarships
-    * Newton fund
-	* US citizens can come with [Marshall](http://www.marshallscholarship.org/applications/eligible) or [Fullbright](http://www.fulbright.org.uk/going-to-the-uk/postgraduate-student-awards) scholarships.
- * Occasionally, we have specific funding for PhD positions.
- * In some circumstances we accept self-funded PhD candidates.
- 
-Please get in touch if you want to apply for a PhD position.
+If you are interested in applying to graduate school with the Palmer group and colleagues, first read a description of the current research focusing on wetlands, stream networks, and carbon. If this is consistent with your interests, please send Dr. Palmer a statement of your particular research interests in this area, a resume, and unofficial copies of your transcripts and GRE scores. She will get back to after receiving all four pieces of information. Dr. Palmer accepts graduate students primarily through the [MEES program](http://mees.umd.edu/) at the University of Maryland. Her graduate students are also involved to varying extents with activities at [SESYNC](https://sesync.org/).
 
 ## Internships
 
-We can in some cases host interns (for French students: par exemple pour les stages de M2 ou équivalent).
-This is much easier if you come with your own funding. Minimal duration is 5 months.
-
-## MSc students
-
-Our department hosts at least 3 MSc progams that are relevant to our research - these programs typically last one year for full-time students, include taught courses and a 6-9 month research project.
-
- * [Bioinformatics MSc program](http://www.sbcs.qmul.ac.uk/postgraduate/masters/courses/169225.html)
- * [Evolutionary Genomics MSc program](http://www.sbcs.qmul.ac.uk/postgraduate/masters/courses/169221.html)
- * [Ecology and Evolution MSc program](http://www.sbcs.qmul.ac.uk/postgraduate/masters/courses/169220.html)
+Undergraduate and recent graduate interns are an integral part of research with the Palmer Lab. If you have looked through our work and are interested in applying, please contact Dr. Palmer with a statement of your research interests, a resume, and an unofficial copy of your transcript. 
