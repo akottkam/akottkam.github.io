@@ -8,5 +8,4 @@ title: "We have a new lab page!"
 categories:
  - labnews
 ---
-**What is it?**
-This is _a trial news post_ and I think you'll enjoy it. Short and sweet.
+Please excuse our mess! We are finally **updating our lab website** and learning the ropes of creating a website as a Github page using [Jekyll](https://jekyllrb.com/) platform. We are using the [Wurm Lab at Queen Mary University London](https://wurmlab.github.io) site as a template. We are _very grateful_ for their code to practice and learn from! As we update, please refer to the [current website](http://palmerlab.umd.edu/) for the Palmer Lab.
